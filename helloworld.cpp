@@ -1,4 +1,5 @@
-#include<stdio.h>
+//helloworld pgm
+//#include<stdio.h>
 int main()
 {
 	printf("hello");
